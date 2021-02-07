@@ -1,0 +1,138 @@
+{
+  "product": [
+    {
+      "id": 1 ,
+      "name": "shirt",
+      "categoryID": 2,
+      "descriptions": "description here",
+      "price": 300,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/img/ID1Product.jpg",
+      "rating": 4,
+      "review": 150,
+      "vendor-name": "abc short",
+      "warranty": 1
+    },
+    {
+      "id": 2 ,
+      "name": "T-shirt",
+      "categoryID": 2,
+      "descriptions": "description here",
+      "price": 200,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/img/ID2Product.jpg",
+      "rating": 3,
+      "review": 120,
+      "vendor-name": "abc short",
+      "warranty": 1
+    },
+    {
+      "id": 3 ,
+      "name": "choker",
+      "categoryID": 3,
+      "descriptions": "description here",
+      "price": 500,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/img/ID3Product.jpg",
+      "rating": 2,
+      "review": 140,
+      "vendor-name": "abc short",
+      "warranty": 1
+    },
+    {
+      "id": 4 ,
+      "name": "shirt",
+      "categoryID": 5,
+      "descriptions": "description here",
+      "price": 300,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/img/ID1Product.jpg",
+      "rating": 4,
+      "review": 150,
+      "vendor-name": "abc short",
+      "warranty": 1
+    },
+    {
+      "id": 5 ,
+      "name": "T-shirt",
+      "categoryID": 1,
+      "descriptions": "description here",
+      "price": 200,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/img/ID2Product.jpg",
+      "rating": 3,
+      "review": 120,
+      "vendor-name": "abc short",
+      "warranty": 1
+    },
+    {
+      "id": 6 ,
+      "name": "choker",
+      "categoryID": 4,
+      "descriptions": "description here",
+      "price": 500,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/img/ID3Product.jpg",
+      "rating": 2,
+      "review": 140,
+      "vendor-name": "abc short",
+      "warranty": 1
+    },
+    {
+      "id": 7 ,
+      "name": "shirt",
+      "categoryID": 5,
+      "descriptions": "description here",
+      "price": 300,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/img/ID1Product.jpg",
+      "rating": 4,
+      "review": 150,
+      "vendor-name": "abc short",
+      "warranty": 1
+    },
+    {
+      "id": 8 ,
+      "name": "T-shirt",
+      "categoryID": 1,
+      "descriptions": "description here",
+      "price": 200,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/img/ID2Product.jpg",
+      "rating": 3,
+      "review": 120,
+      "vendor-name": "abc short",
+      "warranty": 1
+    },
+    {
+      "id": 9 ,
+      "name": "choker",
+      "categoryId": 4,
+      "descriptions": "description here",
+      "price": 500,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/img/ID3Product.jpg",
+      "rating": 2,
+      "review": 140,
+      "vendor-name": "abc short",
+      "warranty": 1
+    }
+
+
+  ],
+  "categories": [
+    {"id":  1, "categoryName":  "Electronic"},
+    {"id":  2, "categoryName":  "Men"},
+    {"id":  3, "categoryName":  "Women"},
+    {"id":  4, "categoryName":  "Home & Furniture"},
+    {"id":  5, "categoryName":  "Baby & Kids"}
+  ],
+  "comments": [
+    {"id":  1, "body":  "some comment","postId": 1},
+    {"id":  2, "body":  "some comment","postId": 1}
+  ],
+  "profile": {
+    "name": "gallapillo"
+  }
+
+}
